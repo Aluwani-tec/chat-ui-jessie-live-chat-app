@@ -1,0 +1,20 @@
+[
+  {
+    "username": "Olivia",
+    "email": "olivia@aiuara.com",
+    "avatar": "https://randomuser.me/api/portraits/women/44.jpg",
+    "online": true
+  },
+  {
+    "username": "John",
+    "email": "john@example.com",
+    "avatar": "https://randomuser.me/api/portraits/men/43.jpg",
+    "online": true
+  },
+  {
+    "username": "Jessie",
+    "email": "jessie@example.com",
+    "avatar": "https://randomuser.me/api/portraits/women/47.jpg",
+    "online": false
+  }
+]
